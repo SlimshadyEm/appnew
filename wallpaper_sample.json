@@ -40,9 +40,9 @@
             {
                 "name": "Black and White"
             },
-			{
-				"name": "Football"
-			},
+	    {
+		"name": "Football"
+	    },
             {
                 "name": "House"
             }
@@ -55,7 +55,7 @@
 				"url": "https://drive.google.com/uc?id=1BVrIucoO0d9K4LR1J3WYyf55NaVTwHLa",
 				"thumbUrl": "https://drive.google.com/uc?id=1BVrIucoO0d9K4LR1J3WYyf55NaVTwHLa",
 				"name": "Leo, Argentina",
-                "category": "football"
+                                "category": "football"
 			},
 			{
 				"author": "Sweet Ice Cream Photography",
